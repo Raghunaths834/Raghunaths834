@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghunath</h1>
-<h3 align="center">I'm a data science enthusiast skillfully combining analytics and tech wizardry. I'm on a quest to unravel the mysteries of data. Join me on this thrilling adventure as we unravel the world together!🚀</h3>
+<h3 align="center">I'm a data science enthusiast passionate about analytics and technology. Join me on my journey to explore and understand the world of data!🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghunaths834&label=Profile%20views&color=0e75b6&style=flat" alt="raghunaths834" /> </p>
 
