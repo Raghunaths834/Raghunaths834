@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghunaths834&label=Profile%20views&color=0e75b6&style=flat" alt="raghunaths834" /> </p>
 
-- 💬 Ask me about **Python,Polars,Data analytics,Machine Learning,Deep Learning**
+- 💬 Ask me about **Python,PySpark,Polars,Data analytics,Machine Learning,Deep Learning**
 
 - 📫 How to reach me **raghunaths834@gmail.com**
 
